@@ -1,0 +1,9 @@
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\bin\Debug\ZbufferAlgorithm.exe.config
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\obj\Debug\ZbufferAlgorithm.csprojResolveAssemblyReference.cache
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\obj\Debug\Graphics3Dto2D.Form1.resources
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\obj\Debug\ZbufferAlgorithm.Properties.Resources.resources
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\obj\Debug\ZbufferAlgorithm.csproj.GenerateResource.Cache
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\bin\Debug\ZbufferAlgorithm.exe
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\bin\Debug\ZbufferAlgorithm.pdb
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\obj\Debug\ZbufferAlgorithm.exe
+E:\BlogSourceCode\Graphics Algorithm\z-buffer-algorithm\ZbufferAlgorithm\ZbufferAlgorithm\obj\Debug\ZbufferAlgorithm.pdb
